@@ -15,6 +15,9 @@ Como Usar?
 
 5° Acesse o Diretório Novamente: cd Wifi-backup-
 
+=================================================
+ao selecionar o opção 1: os backups seram salvos em /sdcard/WiFi_Backup
+
 Atenção: Requer Acesso Root
 
 BY-KILLERKINGMD👑
