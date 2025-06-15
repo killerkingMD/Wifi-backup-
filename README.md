@@ -17,12 +17,12 @@ Como Usar?
 
 ____________________
 
-ao selecionar o opção 2: as Senhas seram salvos em /sdcard/WiFi_Backup
+ao selecionar o opção 1: os backups seram salvos em /sdcard/WiFi_Backup
 ____________________
 
 ____________________
 
-ao selecionar o opção 1: os backups seram salvos em /sdcard/WiFi_Backup/redes_wifi.txt
+ao selecionar o opção 2: As senhas  seram salvas em /sdcard/WiFi_Backup/redes_wifi.txt
 _____________________
 
 *
