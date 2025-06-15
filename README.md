@@ -11,7 +11,7 @@ Como Usar?
 
 3° Acesse o Diretório: cd Wifi-backup-
 
-4° Dê as Permissões: chmod +X wifi_backup.sh
+4° Dê as Permissões: chmod +x wifi_backup.sh
 
 5° Acesse o Diretório Novamente: cd Wifi-backup-
 
