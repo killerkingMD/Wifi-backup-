@@ -24,9 +24,9 @@ ____________________
 
 ao selecionar o opção 1: os backups seram salvos em /sdcard/WiFi_Backup/redes_wifi.txt
 _____________________
-*
 
-Atenção: Requer Acesso Root
 
-BY-KILLERKINGMD👑
+*Atenção: Requer Acesso Root
+
+*BY-KILLERKINGMD👑
 _____________________________
