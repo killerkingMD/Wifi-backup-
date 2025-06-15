@@ -5,7 +5,7 @@ backup wifi: Script Foi crido para Salvar e Ver as Senhas Salvas das Redes Wi-fi
 Como Usar?
 ==================
 
-1° Clone o Repositório 
+1° Clone o Repositório e cole No termux:  git clone https://github.com/killerkingMD/Wifi-backup-.git
 
 2° acessar Root no termux: su
 
