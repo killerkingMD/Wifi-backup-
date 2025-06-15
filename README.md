@@ -27,6 +27,6 @@ _____________________
 
 *
 Atenção: Requer Acesso Root
-*
+
 BY-KILLERKINGMD👑
 _____________________________
