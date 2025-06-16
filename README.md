@@ -15,6 +15,8 @@ Como Usar?
 
 5° Acesse o Diretório Novamente: cd Wifi-backup-
 
+6° acesse o Menu: ./wifi_backup.sh
+
 ____________________
 
 ao selecionar o opção 1: os backups seram salvos em /sdcard/WiFi_Backup
